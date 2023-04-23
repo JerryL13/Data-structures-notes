@@ -1,7 +1,7 @@
 
 ## B01
 
-###tuples
+### tuples
 - list comprehension: method to concisely create lists 
 - allows for 2D arrays and materices efficiently by using fundamental notation 
 - use when a new list: is a result of some operation applised to all of its member of another sequence/iterable or an element that satifys a certain condition 
@@ -14,7 +14,7 @@
 - iterator Function: returns an object that is iterable 
 - map() -> built in function that applies a given function to every item in the given sequence and returns a result
 - filter() -> built in function that filters out items in a sequence would end in true and will return the result 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## B02
 - sets: a well_deined collection of distinct objects, considered as an object in its own right. a set can be denoted withg {}
 - sets dont need to be ordered {a,b,c} is the same as {b,c,a} they are considered the same 
@@ -55,7 +55,7 @@
 - associatitve:If A,B, and C are sets, then the ((A union B) union C) is equal to (A union (B union C))
 - distributive law: if A,B, and C are sets, then (A intersection (B union C)) is equal to:
 ((A intersection B) union (A intersection C))
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## BO3
 - dictionary: (associative Array, Map, symbol table) stores a collection of keys, each key apppears once in the collection 
 - common operation are adding pair's removing pair's, modifying etc.
